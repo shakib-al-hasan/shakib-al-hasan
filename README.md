@@ -4,7 +4,10 @@
 
 I'm a seasoned developer passionate about crafting top-notch web and Android applications. With expertise in HTML, CSS, React, JavaScript, Node.js, Express.js, and MongoDB, I bring ideas to life on the web. In the realm of Android, I'm fluent in XML and Java, ensuring smooth mobile experiences. Let's team up and turn your visions into reality!
 
+#### Web Application
 Skills: HTML / CSS / REACT / JS / NODE JS / EXPRESS JS / MONGO BD
+#### Android Application
+Skills: - XML / JAVA
 
 - 🔭 I’m currently working on Facebook And LinkedIn  
 - 🌱 I’m currently learning Python 
