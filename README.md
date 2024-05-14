@@ -9,7 +9,7 @@ Skills: HTML / CSS / REACT / JS / NODE JS / EXPRESS JS / MONGO BD
 - 🔭 I’m currently working on Facebook And LinkedIn  
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about web application development and Native Android application development 
+- 💬 Ask me about #####web application development and Native Android application development 
 - 📫 How to reach me: mdshakibalhasan680@gmail.com 
 
 
